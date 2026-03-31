@@ -44,6 +44,7 @@ plot(Pmin2, Rmax2)
 ("Maximum Range Rmax")
 ("Pmin vs Rmax")
 xgrid()
+
 ```
 
 ### Tabulation
